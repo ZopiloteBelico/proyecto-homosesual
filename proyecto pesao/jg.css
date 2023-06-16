@@ -1,0 +1,93 @@
+.chupas{
+font-size: 40px;
+text-align: center; 
+font-family: 'Darkslayer', sans-serif;  
+}
+.indice{
+    text-align: center;
+    font-size: 30px;
+}
+.chupas2{
+    text-align: center;
+    color: rgb(160, 3, 3);
+}
+.Intro{
+    text-align: left;
+    color: rgb(1, 69, 114);
+}
+.Jgl{
+ font-size: 20px;
+color:rgb(6, 25, 148)
+}
+h2{
+text-align: left;
+color: rgb(160, 3, 3);
+font-size: 30px;
+}
+.gl{
+text-align: left;
+font-weight: bolder;
+font-size: 20px;
+color: rgb(0, 24, 240);
+
+}
+body{
+    background-size: 700px;
+
+}
+.si{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+.fondo{
+    background-size: 1200px 700px;
+
+
+}
+img{
+    width: 400px;
+    height: 300px;
+    
+    }
+    .tarjeta{
+      width:420px;
+      border: 1px solid lightgray;
+      box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+      border-radius:15px;
+      font-family: sans-serif;
+    }
+    .titulo{
+      font-size: 24px;
+      padding: 10px 10px 0 10px;;
+    }
+    .cuerpo{
+      padding: 10px;
+    }
+    .pie{
+      background: #6699ff;
+      border-radius:0 0 15px 15px;
+      padding: 10px;
+      text-align:center;
+    }
+    table{
+        margin: auto;
+        width: 200px;
+        border-collapse: collapse;
+        margin-top: 20%;
+        
+    border: black;
+    
+    }
+    th{
+        border: transparent;
+        color: white;
+        background-color: black;
+    }
+    .centro{
+        text-align: center;
+    }
+    .no{
+
+        color: white;
+    }
+    
